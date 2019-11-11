@@ -1,0 +1,25 @@
+
+main p {
+    color: #333;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    text-indent: 30px;
+    margin: 20px 0px;
+  }
+  
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  
+  aside button {
+    float: right;
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    padding: 15px 40px;
+    background: #b8705a;
+    color: #fff;
+    font-size: 1.2em;
+    border: none;
+  }
+  
